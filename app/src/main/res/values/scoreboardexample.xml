@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="Martin"></string>
+    <string name="Mads"></string>
+    <string name="Emil"></string>
+    <string name="Lucas"></string>
+    <string name="Simon"></string>
+    <string name="Tobias"></string>
+</resources>
